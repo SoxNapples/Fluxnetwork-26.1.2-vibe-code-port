@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fluxnetworks",
+  "pattern": [
+    "fcf",
+    "cfc",
+    "fcf"
+  ],
+  "key": {
+    "c": "fluxnetworks:flux_core",
+    "f": "fluxnetworks:flux_dust"
+  },
+  "result": {
+    "id": "fluxnetworks:flux_block",
+    "count": 1
+  }
+}

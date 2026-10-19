@@ -1,0 +1,12 @@
+{
+  "type": "fluxnetworks:config_wipe_recipe",
+  "category": "misc",
+  "group": "fluxnetworks",
+  "ingredients": [
+    "fluxnetworks:flux_controller"
+  ],
+  "result": {
+    "id": "fluxnetworks:flux_controller",
+    "count": 1
+  }
+}
